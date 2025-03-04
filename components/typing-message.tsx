@@ -45,7 +45,7 @@ export default function TypingMessage() {
   }
 
   const messages = [
-    "Hai [Nama Crush], sudah lama sekali aku memperhatikanmu. Setiap senyummu, tawamu, selalu membuatku menjadi semakin terpesona denganmu.",
+    "Hai Rizka Rahmawati, sudah lama sekali aku memperhatikanmu. Setiap senyummu, tawamu, selalu membuatku menjadi semakin terpesona denganmu.",
     "Sejak awal pertama kali aku melihatmu, aku mulai menyukaimu. Waktu itu tanpa alasan awal aku mulai menyukai dirimu, tapi aku yakin Allah lah yang telah membolak balikkan isi hatiku.",
     "Hari demi hari aku semakin menyukai dirimu, dari sifatmu, senyummu, tawamu, semuanya dari dirimu.",
     "Mungkin hari ini aku belum bisa mengungkapkannya secara langsung, tapi aku yakin suatu saat nanti aku akan mengungkapkannya langsung kepadamu.",
