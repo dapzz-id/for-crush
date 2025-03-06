@@ -54,7 +54,7 @@ export default function TypingMessage() {
     "Kamu itu seperti chandra yang sundara dan membawakan harsa yang amerta di kalbuku.",
     "Kau adalah aratula yang menyinari nisha, kau adalah aksara di dalam timira, dan aku adalah jivaah yang sarvadah, melihatmu sebagai aksara yang aswara untuk harsa pada diriku.",
     "Tentang daksaku yang mencintaimu aksa di netra, namun cintaku sedalam sagara, tentang asmaraloka yang menyatukan dua atma dalam aksara, entah akan menjadi lara dan fana atau amerta dalam adiwarna.",
-    "Aku akan tetap menyayangimu meski tanpa pesan dan komunikasi.",
+    "Aku akan tetap mencintaimu meski tanpa pesan dan komunikasi.",
     "Jika kelak Allah mengizinkan bahwa kamu adalah takdirku, maka aku akan selalu menjagamu, merawatmu, dan mencintaimu sebaik-baiknya. Ada satu lagu yang mungkin mewakili pesan ini:",
     "Aku akan berusaha menjadi yang terbaik, dan aku ingin melihatmu bahagia.",
     "Aku ingin membuatmu tersenyum, tertawa, dan merasa aman.",
@@ -63,7 +63,7 @@ export default function TypingMessage() {
     "Maaf yaa, kalau pesan ini terlalu panjang untukmu. Aku hanya ingin kamu tahu perasaanku.",
     "Oh ya, satu pesan lagi untukmu. Aku berharap kamu selalu menjaga kesehatan, jangan lupakan sholatmu, jaga caramu berpakaian saat di luar, jaga aurat dan kehormatanmu, serta perdalam ilmu agamamu. Karena kamu itu bagaikan berlian yang berkilau, dan aku tahu bagaimana cara laki-laki memandang wanita.",
     "Fokuslah pada cita-citamu terlebih dahulu. Cinta, jodoh, dan takdir bisa datang kapan saja, tapi ingatlah bahwa Allah selalu menyiapkan yang terbaik di waktu yang tepat.",
-    "Jangan khawatir tentang cinta. Yang terbaik adalah yang datang tanpa harus melanggar batas yang Allah tetapkan.",
+    "Jangan khawatir tentang cinta. Yang terbaik adalah yang datang tanpa harus melanggar batas yang Allah tetapkan. Orang yang benar-benar mencintaimu adalah orang yang tidak berani mengajaknya dalam perbuatan maksiat.",
     "Hehehe, maaf ya kalau pesan ini terasa sedikit mengatur. Aku hanya ingin melihatmu menjadi wanita yang lebih baik, lebih sholehah, lebih pintar, berbakti pada orang tua, dan sukses dalam karir serta kehidupan.",
     "Terima kasih karena sudah mau membaca pesanku ini. Tetaplah menjadi dirimu yang bersinar, seperti chandra yang sundara di malam yang sunyi. See you di waktu yang tepat menurut Tuhan..."
 ];
