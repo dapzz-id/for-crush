@@ -45,30 +45,28 @@ export default function TypingMessage() {
   }
 
   const messages = [
-    "Hai Rizka Rahmawati, sudah lama sekali aku memperhatikanmu. Setiap senyummu, tawamu, selalu membuatku menjadi semakin terpesona denganmu.",
-    "Sejak awal pertama kali aku melihatmu, aku mulai menyukaimu. Waktu itu tanpa alasan awal aku mulai menyukai dirimu, tapi aku yakin Allah lah yang telah membolak balikkan isi hatiku.",
-    "Hari demi hari aku semakin menyukai dirimu, dari sifatmu, senyummu, tawamu, semuanya dari dirimu.",
-    "Mungkin hari ini aku belum bisa mengungkapkannya secara langsung, tapi aku yakin suatu saat nanti aku akan mengungkapkannya langsung kepadamu.",
-    "Karena menurutku, saat ini belum waktunya, aku ingin fokus mengejar cita-cita dan impianku terlebih dahulu. Agar bisa membahagiakan kedua orang tuaku.",
-    "Aku ingin mengubah diriku ini menjadi lebih baik lagi dari saat ini. Jika suatu saat nanti aku ditakdirkan untukmu, maka aku telah siap akan hal itu. Aku tidak main-main dengan perasaan ini, sungguh aku sangat mencintai dirimu.",
-    "Aku selalu meminta kepada tuhanku, agar kita bisa dipertemukan di waktu yang tepat dan dipersatukan kelak, meski aku tahu itu sangat sulit. Tapi aku yakin, jika berusaha dan berdoa, Allah akan memudahkan segalanya.",
-    "Kamu itu seperti chandra yang sundara dan membawakan harsa yang amerta di kalbuku",
-    "Kau adalah aratula yang menyinari nisha, kau adalah aksara didalam timira, dan aku adalah jivaah yang sarvadah, melihatmu sebagai aksara yang aswara untuk harsa pada diriku.",
+    "Hai Rizka Rahmawati, sudah lama aku memperhatikanmu. Setiap senyummu, tawamu, caramu berbicara… semua itu membuatku semakin terpesona.",
+    "Aku tidak tahu kapan perasaan ini mulai tumbuh. Mungkin sejak pertama melihatmu, atau mungkin karena Tuhan yang membolak-balikkan hati ini. Tapi yang aku tahu, aku menyukaimu tanpa perlu alasan, tanpa perlu jawaban.",
+    "Hari demi hari, perasaan ini semakin kuat. Dari sifatmu, senyummu, tawamu, semuanya tentang dirimu membuatku kagum.",
+    "Saat ini aku memilih diam. Bukan karena takut, tapi karena aku ingin memperbaiki diri, mengejar impian, dan membahagiakan orang tuaku terlebih dahulu. Aku ingin menjadi seseorang yang pantas, jika suatu hari nanti aku diberi kesempatan untuk menyebut namamu di hadapan Tuhan.",
+    "Jika kelak Allah menakdirkan kita bertemu di waktu yang tepat, aku akan memastikan diriku siap. Aku tidak main-main dengan perasaan ini. Aku hanya ingin kamu tahu, bahwa di suatu tempat, ada seseorang yang diam-diam mendoakanmu dalam setiap sujudnya.",
+    "Aku yakin, jika berusaha dan berdoa, Allah akan memudahkan segalanya.",
+    "Kamu itu seperti chandra yang sundara dan membawakan harsa yang amerta di kalbuku.",
+    "Kau adalah aratula yang menyinari nisha, kau adalah aksara di dalam timira, dan aku adalah jivaah yang sarvadah, melihatmu sebagai aksara yang aswara untuk harsa pada diriku.",
     "Tentang daksaku yang mencintaimu aksa di netra, namun cintaku sedalam sagara, tentang asmaraloka yang menyatukan dua atma dalam aksara, entah akan menjadi lara dan fana atau amerta dalam adiwarna.",
-    "Aku akan tetap mencintai dan menyukai dirimu meski tanpa pesan dan komunikasi.",
-    "Jika kelak aku di izinkan oleh Allah bahwa kamu adalah takdirku, maka aku akan selalu menjagamu, merawatmu, dan mencintaimu sebaik-baiknya, sama seperti lagu ini:",
-    "Aku akan selalu berusaha menjadi yang terbaik untukmu, dan aku akan selalu berusaha untuk membuatmu bahagia.",
-    "Aku akan selalu berusaha untuk membuatmu tersenyum, tertawa, dan bahagia.",
-    "Aku akan selalu berusaha untuk membuatmu merasa nyaman dan aman bersamaku.",
-    "Aku akan selalu berusaha untuk membuatmu merasa dicintai dan dihargai.",
-    "Karena menurutku, kamu itu bagaikan berlian yang sangat berharga sekali.",
-    "Mungkin itu saja yang bisa aku ungkapkan sekarang, aku harap kamu bisa memahami perasaanku ini.",
-    "Maaf yaa, kalau pesan ini terlalu panjang untukmu. Aku hanya ingin kamu tahu perasaanku ini.",
-    "Oh yaa, satu pesan lagi untukmu. Aku berharap kamu selalu jaga kesehatanmu, jangan lupakan sholatmu, jaga caramu berpakaian saat diluar, jaga aurat & kehormatanmu, perdalam ilmu agamamu. Karena kamu itu bagaikan berlian yang berkilau. Aku juga tau bagaimana cara laki-laki dalam memandang wanita.",
-    "Fokuslah pada cita-citamu terlebih dahulu, karena kalau masalah cinta, jodoh dan takdir, itu bisa datang kapan saja dan dimana saja. Tetapi kamu harus selalu ingat, bahwa agamamu islam, Allah melarang pacaran, jadi jangan pernah pacaran sebelum menikah.",
-    "Hehehe, maaf yaa kalau agak sedikit ngatur kamu. Aku hanya ingin melihatmu menjadi orang yang lebih baik lagi dari sebelumnya, menjadi wanita yang sholehah, pintar, berbakti pada orang tua, dan sukses dalam karir dan kehidupanmu.",
-    "Terima kasih yaa karena sudah mau membaca pesanku ini, see youu di waktu yang tepat menurut tuhan...",
-  ]
+    "Aku akan tetap menyayangimu meski tanpa pesan dan komunikasi.",
+    "Jika kelak Allah mengizinkan bahwa kamu adalah takdirku, maka aku akan selalu menjagamu, merawatmu, dan mencintaimu sebaik-baiknya. Ada satu lagu yang mungkin mewakili pesan ini:",
+    "Aku akan berusaha menjadi yang terbaik, dan aku ingin melihatmu bahagia.",
+    "Aku ingin membuatmu tersenyum, tertawa, dan merasa aman.",
+    "Aku ingin kamu merasa dihargai dan dicintai, karena menurutku, kamu itu bagaikan berlian yang sangat berharga.",
+    "Mungkin itu saja yang bisa aku ungkapkan sekarang. Aku harap kamu bisa memahami perasaanku ini.",
+    "Maaf yaa, kalau pesan ini terlalu panjang untukmu. Aku hanya ingin kamu tahu perasaanku.",
+    "Oh ya, satu pesan lagi untukmu. Aku berharap kamu selalu menjaga kesehatan, jangan lupakan sholatmu, jaga caramu berpakaian saat di luar, jaga aurat dan kehormatanmu, serta perdalam ilmu agamamu. Karena kamu itu bagaikan berlian yang berkilau, dan aku tahu bagaimana cara laki-laki memandang wanita.",
+    "Fokuslah pada cita-citamu terlebih dahulu. Cinta, jodoh, dan takdir bisa datang kapan saja, tapi ingatlah bahwa Allah selalu menyiapkan yang terbaik di waktu yang tepat.",
+    "Jangan khawatir tentang cinta. Yang terbaik adalah yang datang tanpa harus melanggar batas yang Allah tetapkan.",
+    "Hehehe, maaf ya kalau pesan ini terasa sedikit mengatur. Aku hanya ingin melihatmu menjadi wanita yang lebih baik, lebih sholehah, lebih pintar, berbakti pada orang tua, dan sukses dalam karir serta kehidupan.",
+    "Terima kasih karena sudah mau membaca pesanku ini. Tetaplah menjadi dirimu yang bersinar, seperti chandra yang sundara di malam yang sunyi. See you di waktu yang tepat menurut Tuhan..."
+];
 
   const handleNext = () => {
     if (messageIndex < messages.length - 1) {
@@ -126,7 +124,7 @@ export default function TypingMessage() {
 
       {isTypingComplete && messageIndex < messages.length - 1 && (
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }}>
-          {messageIndex == 11 && (
+          {messageIndex == 10 && (
             <Button onClick={toggleAudio} size="lg" className="bg-pink-600 hover:bg-pink-700 rounded-xl mr-6 text-white px-8">
               Play Audio
             </Button>
@@ -137,12 +135,6 @@ export default function TypingMessage() {
           </Button>
         </motion.div>
       )}
-
-          {messageIndex == 22 && (
-            <Button onClick={() => { window.location.href = 'https://ngl.link/wakafa_billahi_syahida' }} size="lg" className="bg-pink-600 py-7 hover:bg-pink-700 rounded-xl mr-6 text-white px-8">
-              Send a reply, if you want <br></br> to send a message to me
-            </Button>
-          )}
     </motion.div>
   )
 }
